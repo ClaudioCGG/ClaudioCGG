@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hola, soy Claudio Guirado 👋
 
-<!--
-**ClaudioCGG/ClaudioCGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista BI y automatización de procesos con IA para administración y finanzas** · Buenos Aires, Argentina
 
-Here are some ideas to get you started:
+Más de 15 años en administración, finanzas y gestión comercial (Siemens, Linde, La Nación ) y hoy desarrollo herramientas que automatizan el trabajo operativo de estudios contables y pymes: conciliaciones, reportes de gestión y asistentes con IA. Me interesa entender cómo funciona un negocio, leer lo que dicen sus números y convertirlo en decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Proyectos destacados
+
+| Proyecto | Qué resuelve | Stack |
+|---|---|---|
+| [**Conciliación bancaria automatizada con IA**](https://github.com/ClaudioCGG/conciliacion-bancaria-ia) | Concilia extractos de distintos bancos contra el mayor en cascada, controla que cada match cierre en cero y deja solo las excepciones con sugerencias. En producción: 90–95% automático en 10–15 minutos. | Python · Pandas · Gemini · SQL |
+| **Tablero de salud financiera para pymes** *(en desarrollo)* | Días de cobro y de pago (DSO/DPO), aging de cobranzas, notas de crédito por motivo y escenarios de caja. | Python · SQL · Power BI |
+| **Asistente IA de respuestas a clientes** *(en desarrollo)* | Detecta consultas repetidas en el historial de mails, cita el antecedente y redacta un borrador para revisión humana. | Apps Script · NotebookLM |
+
+### 🛠️ Herramientas
+
+- **Datos y BI:** Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) · SQL · Looker Studio · Excel / Google Sheets · VBA
+- **IA y automatización:** Gemini API · Google Apps Script · NotebookLM · Claude · ingeniería de prompts
+- **Desarrollo:** JavaScript · Git / GitHub · Java y Spring Boot (formación)
+- **Negocio:** conciliaciones · cierre mensual · capital de trabajo (DSO/DPO) · presupuesto vs. real · análisis Pareto/ABC
+
+### 🎓 Formación reciente
+
+Data Analytics con Python y Business Intelligence (Talento Tech, GCBA) · Programa ONE Back-end Java (Oracle + Alura) · IA aplicada a negocios (Oracle + Alura, en curso)
+
+### 📫 Contacto
+
+cguirado.ln@gmail.com

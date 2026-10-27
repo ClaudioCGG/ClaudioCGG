@@ -10,7 +10,7 @@ Más de 15 años en administración, finanzas y gestión comercial (Siemens, Lin
 |---|---|---|
 | [**Conciliación bancaria automatizada con IA**](https://github.com/ClaudioCGG/conciliacion-bancaria-ia) | Concilia extractos de distintos bancos contra el mayor en cascada, controla que cada match cierre en cero y deja solo las excepciones con sugerencias. En producción: 90–95% automático en 10–15 minutos. | Python · Pandas · Gemini · SQL |
 | [**KPI Caja**](https://github.com/ClaudioCGG/kpi-caja) · [tablero](https://claudiocgg.github.io/kpi-caja/) | Diagnóstico de capital de trabajo: una pyme que duplicó ventas y terminó en descubierto. Días de cobro y pago, aging, notas de crédito y simulador de escenarios. | Python · SQL · Plotly |
-| **Asistente IA de respuestas a clientes** *(en desarrollo)* | Detecta consultas repetidas en el historial de mails, cita el antecedente y redacta un borrador para revisión humana. | Apps Script · NotebookLM |
+| [Mesa de Ayuda IA](https://github.com/ClaudioCGG/mesa-de-ayuda-ia) | Detecta consultas ya respondidas, cita el antecedente y propone un borrador que revisa una persona. 8/8 repetidas encontradas, 0 errores con confianza. | Apps Script · Python · scikit-learn · Gemini | [Bandeja](https://claudiocgg.github.io/mesa-de-ayuda-ia/) |
 
 ### 🛠️ Herramientas
 

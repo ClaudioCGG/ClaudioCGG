@@ -2,7 +2,7 @@
 
 **Analista BI y automatización de procesos con IA para administración y finanzas** · Buenos Aires, Argentina
 
-Más de 15 años en administración, finanzas y gestión comercial (Siemens, Linde, La Nación ) y hoy desarrollo herramientas que automatizan el trabajo operativo de estudios contables y pymes: conciliaciones, reportes de gestión y asistentes con IA. Me interesa entender cómo funciona un negocio, leer lo que dicen sus números y convertirlo en decisiones.
+Más de 15 años en administración, finanzas y gestión comercial en empresas como Siemens, Linde y La Nación. Hoy desarrollo herramientas en Python, SQL y Google Workspace que automatizan el trabajo operativo de estudios contables y pymes: conciliaciones, reportes de gestión y asistentes con IA. Me interesa entender cómo funciona cada negocio, detectar sus necesidades y oportunidades de mejora, y convertir lo que dicen sus números en decisiones concretas.
 
 ### 🔎 Proyectos destacados
 
